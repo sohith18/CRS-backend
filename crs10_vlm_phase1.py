@@ -292,35 +292,45 @@ class Qwen3VLAgent:
         ctx_text    = user_ctx.as_prompt_block()
 
         prompt = (
-            "You are analyzing two top-down (bird's-eye view) 2D room layout floor plans.\n"
-            "The FIRST image you received is Layout A. The SECOND image is Layout B.\n\n"
+                "You are analyzing two top-down (bird's-eye view) 2D room layout floor plans.\n"
+                "The FIRST image you received is Layout A. The SECOND image is Layout B.\n\n"
 
-            "STEP 1 — Identify the single most visually obvious spatial difference between "
-            "Layout A and Layout B. Focus on ONE of:\n"
-            "  • Position of a major furniture piece relative to a fixed room feature "
-            "(door, window)\n"
-            "  • Furniture grouping or cluster arrangement\n"
-            "  • Traffic flow or walkway direction through the room\n\n"
+                "STEP 1 — Identify the single most visually obvious difference between "
+                "Layout A and Layout B. Focus on ONE of:\n"
+                "  • Position of a major furniture piece relative to a fixed room feature "
+                "(door, window)\n"
+                "  • Furniture grouping or cluster arrangement\n"
+                "  • Traffic flow or walkway direction through the room\n"
+                "  • How the room would FEEL to live in — consider:\n"
+                "      - Airy and open vs. cozy and filled\n"
+                "      - Balanced/formal vs. relaxed/casual\n"
+                "      - A clear focal point vs. spread-out arrangement\n"
+                "      - Easy to move through vs. intimate and snug\n"
+                "      - Social/inviting vs. private/retreat-like\n\n"
 
-            "STEP 2 — Anchor all spatial language to a named reference object. "
-            "NEVER use bare 'left' or 'right' without a reference "
-            "(e.g., say 'left of the bed', 'beside the window', 'against the far wall', "
-            "'near the door'). "
-            "If you cannot name a reference object, describe by wall proximity instead "
-            "(e.g., 'pushed against the top wall', 'centered in the room').\n\n"
+                "STEP 2 — Anchor all spatial language to a named reference object. "
+                "NEVER use bare 'left' or 'right' without a reference "
+                "(e.g., say 'left of the bed', 'beside the window', 'against the far wall', "
+                "'near the door'). "
+                "If you cannot name a reference object, describe by wall proximity instead "
+                "(e.g., 'pushed against the top wall', 'centered in the room').\n"
+                "For feel-based questions, use mood words directly "
+                "(e.g., 'airy', 'cozy', 'open', 'snug', 'balanced', 'casual').\n\n"
 
-            "STEP 3 — Write ONE preference question (max 25 words) that:\n"
-            "  • Is a direct this-or-that choice (e.g., 'Do you prefer X or Y?')\n"
-            "  • Uses only room-relative, anchored spatial terms from STEP 2\n"
-            "  • Is about something a real person would notice and care about\n"
-            "  • Does NOT mention 'Layout A', 'Layout B', 'Image 1', or 'Image 2'\n\n"
+                "STEP 3 — Write ONE preference question (max 25 words) that:\n"
+                "  • Is a direct this-or-that choice (e.g., 'Do you prefer X or Y?')\n"
+                "  • Uses either room-relative anchored spatial terms OR feel/mood language\n"
+                "  • Is about something a real person would notice and care about\n"
+                "  • Is answerable without seeing the images "
+                "(e.g., 'I prefer the cozy one' or 'I prefer more open space')\n"
+                "  • Does NOT mention 'Layout A', 'Layout B', 'Image 1', or 'Image 2'\n\n"
 
-            f"Previously asked questions — DO NOT ask about the same spatial feature again:\n"
-            f"{history_str}\n\n"
-            f"Known user preferences (skip features already resolved):\n{ctx_text}\n\n"
+                f"Previously asked questions — DO NOT ask about the same spatial feature or feeling again:\n"
+                f"{history_str}\n\n"
+                f"Known user preferences (skip features already resolved):\n{ctx_text}\n\n"
 
-            "Output ONLY the question text. No preamble, no numbering, no explanation."
-        )
+                "Output ONLY the question text. No preamble, no numbering, no explanation."
+            )
 
         result = self._first_line(
             self._generate(prompt, img1_path, img2_path, max_tokens=500, temperature=0.4)
