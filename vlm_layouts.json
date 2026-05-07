@@ -1,0 +1,14 @@
+[
+    {"query_id": "layout_001", "image_path": "images/layout1.png"},
+    {"query_id": "layout_002", "image_path": "images/layout2.png"},
+    {"query_id": "layout_003", "image_path": "images/layout3.png"},
+    {"query_id": "layout_004", "image_path": "images/layout4.png"},
+    {"query_id": "layout_005", "image_path": "images/layout5.png"},
+    {"query_id": "layout_006", "image_path": "images/layout6.png"},
+    {"query_id": "layout_007", "image_path": "images/layout7.png"},
+    {"query_id": "layout_008", "image_path": "images/layout8.png"},
+    {"query_id": "layout_009", "image_path": "images/layout9.png"},
+    {"query_id": "layout_010", "image_path": "images/layout10.png"},
+    {"query_id": "layout_011", "image_path": "images/layout11.png"},
+    {"query_id": "layout_012", "image_path": "images/layout12.png"}
+]
