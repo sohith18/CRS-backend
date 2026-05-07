@@ -40,7 +40,7 @@ UNSURE_SENTINEL   = "__UNSURE__"
 DIRECT_THRESHOLD = int(os.environ.get("DIRECT_THRESHOLD", 5))
 MAX_K            = int(os.environ.get("MAX_K",            10))
 DINOV3_MODEL     = os.environ.get("DINOV3_MODEL", "facebook/dinov3-vith16plus-pretrain-lvd1689m")
-VLM_MODEL_ID     = os.environ.get("VLM_MODEL_ID", "qwen3-vl:30b-a3b-instruct")
+VLM_MODEL_ID     = os.environ.get("VLM_MODEL_ID", "qwen3.6:35b")
 OLLAMA_HOST      = os.environ.get("OLLAMA_HOST",  "http://localhost:11434")
 LAYOUTS_PATH     = os.environ.get("LAYOUTS_PATH", "vlm_layouts.json")
 
@@ -264,6 +264,7 @@ class Qwen3VLAgent:
         client   = ollama.Client(host=self.host)
         response = client.chat(
             model=self.model_id,
+            think = False,
             messages=[{
                 "role":    "user",
                 "content": text,
@@ -276,6 +277,7 @@ class Qwen3VLAgent:
                 "repeat_penalty": 1.1,
             },
         )
+        print(response)
         raw = response["message"]["content"]
         raw = re.sub(r"<think>.*?</think>", "", raw, flags=re.DOTALL)
         raw = re.sub(r"<think>.*",          "", raw, flags=re.DOTALL)
@@ -297,6 +299,8 @@ class Qwen3VLAgent:
         )
 
     # ── IMPROVED: generate_cluster_question ───────────────────────────────────
+    import re
+
     def generate_cluster_question(
         self,
         img1_path: str, img2_path: str,
@@ -311,8 +315,7 @@ class Qwen3VLAgent:
 
             "STEP 1 — Identify the single most visually obvious difference between "
             "Layout A and Layout B. Focus on ONE of:\n"
-            "  • Position of a major furniture piece relative to a fixed room feature "
-            "(door, window)\n"
+            "  • Position of a major furniture piece relative to a fixed room feature (door, window)\n"
             "  • Furniture grouping or cluster arrangement\n"
             "  • Traffic flow or walkway direction through the room\n"
             "  • How the room would FEEL to live in — consider:\n"
@@ -324,8 +327,7 @@ class Qwen3VLAgent:
 
             "STEP 2 — Anchor all spatial language to a named reference object. "
             "NEVER use bare 'left' or 'right' without a reference "
-            "(e.g., say 'left of the bed', 'beside the window', 'against the far wall', "
-            "'near the door'). "
+            "(e.g., say 'left of the bed', 'beside the window', 'against the far wall', 'near the door'). "
             "If you cannot name a reference object, describe by wall proximity instead "
             "(e.g., 'pushed against the top wall', 'centered in the room').\n"
             "For feel-based questions, use mood words directly "
@@ -335,20 +337,27 @@ class Qwen3VLAgent:
             "  • Is a direct this-or-that choice (e.g., 'Do you prefer X or Y?')\n"
             "  • Uses either room-relative anchored spatial terms OR feel/mood language\n"
             "  • Is about something a real person would notice and care about\n"
-            "  • Is answerable without seeing the images "
-            "(e.g., 'I prefer the cozy one' or 'I prefer more open space')\n"
+            "  • Is answerable without seeing the images (e.g., 'I prefer the cozy one' or 'I prefer more open space')\n"
             "  • Does NOT mention 'Layout A', 'Layout B', 'Image 1', or 'Image 2'\n\n"
 
             f"Previously asked questions — DO NOT ask about the same spatial feature or feeling again:\n"
             f"{history_str}\n\n"
             f"Known user preferences (skip features already resolved):\n{ctx_text}\n\n"
 
-            "Output ONLY the question text. No preamble, no numbering, no explanation."
+            "CRITICAL TIME CONSTRAINT: Do NOT evaluate every single bullet point in your reasoning. "
+            "Pick the FIRST obvious difference you notice and IMMEDIATELY skip to generating the XML tags. "
+            "Provide your final answer by wrapping the exact question text inside <question> and </question> tags. "
+            "Do not include any other text inside the tags."
         )
 
-        return self._first_line(
-            self._generate(prompt, img1_path, img2_path, max_tokens=100, temperature=0.3)
-        )
+        # Bumped to 2048. 1500 was just a bit too short for a 35B model's natural thought process.
+        raw_response = self._generate(prompt, img1_path, img2_path, max_tokens=2048, temperature=0.6)
+        
+        match = re.search(r"<question>(.*?)</question>", raw_response, flags=re.IGNORECASE | re.DOTALL)
+        if match:
+            return match.group(1).strip()
+        
+        return self._first_line(raw_response)
 
     # ── IMPROVED: deduce_preferred_cluster ────────────────────────────────────
     def deduce_preferred_cluster(

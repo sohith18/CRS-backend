@@ -1,0 +1,131 @@
+[
+  {
+    "session_id": "open_space_lover_run01",
+    "persona": "open_space_lover",
+    "timestamp": "2026-05-07T18:45:55.809302",
+    "turns": 1,
+    "invalid_questions": 0,
+    "ambiguous_turns": 0,
+    "unsure_turns": 0,
+    "final_count": 3,
+    "final_layouts": [
+      "layout_010",
+      "layout_013",
+      "layout_015"
+    ],
+    "questions": [
+      "Do you prefer a bedroom with furniture clustered against the walls for a cozy feel, or spread out to create a large open central space?"
+    ],
+    "answers": [
+      "I prefer spread out to create a large open central space."
+    ],
+    "eliminated_per_turn": [],
+    "completed": true,
+    "error": null
+  },
+  {
+    "session_id": "cozy_corner_run01",
+    "persona": "cozy_corner",
+    "timestamp": "2026-05-07T18:46:15.658240",
+    "turns": 1,
+    "invalid_questions": 0,
+    "ambiguous_turns": 0,
+    "unsure_turns": 0,
+    "final_count": 3,
+    "final_layouts": [
+      "layout_010",
+      "layout_013",
+      "layout_015"
+    ],
+    "questions": [
+      "Do you prefer the bed against the far wall for more open space, or beside the window for a cozy feel?"
+    ],
+    "answers": [
+      "Beside the window for a cozy feel, please! I love snug, filled rooms with furniture clustered together."
+    ],
+    "eliminated_per_turn": [],
+    "completed": true,
+    "error": null
+  },
+  {
+    "session_id": "functional_organiser_run01",
+    "persona": "functional_organiser",
+    "timestamp": "2026-05-07T18:46:35.612460",
+    "turns": 1,
+    "invalid_questions": 0,
+    "ambiguous_turns": 0,
+    "unsure_turns": 0,
+    "final_count": 3,
+    "final_layouts": [
+      "layout_010",
+      "layout_013",
+      "layout_015"
+    ],
+    "questions": [
+      "Do you prefer a cozy, filled room or a spacious, open layout?"
+    ],
+    "answers": [
+      "I prefer a spacious, open layout with clear zones for sleep, work, and storage."
+    ],
+    "eliminated_per_turn": [],
+    "completed": true,
+    "error": null
+  },
+  {
+    "session_id": "social_entertainer_run01",
+    "persona": "social_entertainer",
+    "timestamp": "2026-05-07T18:46:55.432348",
+    "turns": 1,
+    "invalid_questions": 0,
+    "ambiguous_turns": 0,
+    "unsure_turns": 0,
+    "final_count": 3,
+    "final_layouts": [
+      "layout_010",
+      "layout_013",
+      "layout_015"
+    ],
+    "questions": [
+      "Do you prefer the bed against the far wall for a spacious feel, or beside the window for a cozy retreat?"
+    ],
+    "answers": [
+      "I prefer the bed beside the window for a cozy retreat, as it keeps the center open and welcoming."
+    ],
+    "eliminated_per_turn": [],
+    "completed": true,
+    "error": null
+  },
+  {
+    "session_id": "symmetry_seeker_run01",
+    "persona": "symmetry_seeker",
+    "timestamp": "2026-05-07T18:47:13.925797",
+    "turns": 3,
+    "invalid_questions": 0,
+    "ambiguous_turns": 0,
+    "unsure_turns": 0,
+    "final_count": 5,
+    "final_layouts": [
+      "layout_002",
+      "layout_003",
+      "layout_005",
+      "layout_012",
+      "layout_014"
+    ],
+    "questions": [
+      "Do you prefer the bed centered on the wall opposite the window, or pushed against the window wall?",
+      "Do you prefer the bed facing the window head-on, or angled diagonally across the room?",
+      "Do you prefer the wardrobe at the foot of the bed for a more open feel, or to the side of the bed to keep the center of the room clear?"
+    ],
+    "answers": [
+      "I prefer the bed centered on the wall opposite the window for a more balanced and formal arrangement.",
+      "I prefer the bed facing the window head-on for a balanced, formal arrangement.",
+      "I prefer the wardrobe to the side, keeping the center clear and the arrangement formal and symmetrical."
+    ],
+    "eliminated_per_turn": [
+      3,
+      1
+    ],
+    "completed": true,
+    "error": null
+  }
+]

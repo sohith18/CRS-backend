@@ -41,7 +41,7 @@ UNSURE_SENTINEL   = "__UNSURE__"
 DIRECT_THRESHOLD = 5
 MAX_K            = 10
 DINOV3_MODEL     = "facebook/dinov3-vith16plus-pretrain-lvd1689m"
-VLM_MODEL_ID     = "qwen3-vl:30b-a3b-instruct"
+VLM_MODEL_ID     = "qwen3-vl:8b-instruct"
 
 
 # ══════════════════════════════════════════════════════════════════════════════

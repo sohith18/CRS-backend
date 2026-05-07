@@ -1,0 +1,92 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+
+# ── Virtual Environments ──────────────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+llava/
+conda-meta/
+
+# ── Eval Generated Outputs ────────────────────────────────────────────────────
+eval/__pycache__/
+eval/eval_raw_*.json
+eval/eval_metrics_*.json
+eval/eval_questions_*.txt
+eval/eval_table_*.csv
+eval/results/
+
+# ── Generated Layouts ─────────────────────────────────────────────────────────
+generated_layouts/
+images_old/
+
+# ── Model Weights & Checkpoints ───────────────────────────────────────────────
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+checkpoints/
+weights/
+
+# ── HuggingFace Cache ─────────────────────────────────────────────────────────
+.cache/
+~/.cache/huggingface/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Logs & Debug ──────────────────────────────────────────────────────────────
+*.log
+logs/
+*.out
+*.err
+nohup.out
+
+# ── Old/Draft CRS Versions ────────────────────────────────────────────────────
+crs.py
+crs2.py
+crs3.py
+crs4.py
+crs5.py
+crs6.py
+crs7.py
+crs8.py
+crs8_deepseek_nf.py
+crs8_qwen_nf.py
+dino.py
+test.py
+vlm.py
+
+# ── Old Layout Files (root level) ─────────────────────────────────────────────
+layout1.png
+layout2.png
+layouts.json
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── OS Files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+cloudflared-linux-amd64.deb
+*.deb
+*.tmp
+*.swp
+*.swo
+*.bak
+.idea/
+EOF

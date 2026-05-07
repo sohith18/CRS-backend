@@ -10,5 +10,8 @@
     {"query_id": "layout_009", "image_path": "images/layout9.png"},
     {"query_id": "layout_010", "image_path": "images/layout10.png"},
     {"query_id": "layout_011", "image_path": "images/layout11.png"},
-    {"query_id": "layout_012", "image_path": "images/layout12.png"}
+    {"query_id": "layout_012", "image_path": "images/layout12.png"},
+    {"query_id": "layout_013", "image_path": "images/layout13.png"},
+    {"query_id": "layout_014", "image_path": "images/layout14.png"},
+    {"query_id": "layout_015", "image_path": "images/layout15.png"}
 ]

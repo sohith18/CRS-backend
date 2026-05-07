@@ -1,0 +1,37 @@
+ALL GENERATED QUESTIONS — CRS EVALUATION
+============================================================
+
+Session: open_space_lover_run01 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer a bedroom with furniture clustered against the walls for a cozy feel, or spread out to create a large open central space?
+  A1: I prefer spread out to create a large open central space.
+  → Final layouts: 3 | Completed: True
+
+Session: cozy_corner_run01 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer the bed against the far wall for more open space, or beside the window for a cozy feel?
+  A1: Beside the window for a cozy feel, please! I love snug, filled rooms with furniture clustered together.
+  → Final layouts: 3 | Completed: True
+
+Session: functional_organiser_run01 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer a cozy, filled room or a spacious, open layout?
+  A1: I prefer a spacious, open layout with clear zones for sleep, work, and storage.
+  → Final layouts: 3 | Completed: True
+
+Session: social_entertainer_run01 | Persona: social_entertainer
+----------------------------------------
+  Q1: Do you prefer the bed against the far wall for a spacious feel, or beside the window for a cozy retreat?
+  A1: I prefer the bed beside the window for a cozy retreat, as it keeps the center open and welcoming.
+  → Final layouts: 3 | Completed: True
+
+Session: symmetry_seeker_run01 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the bed centered on the wall opposite the window, or pushed against the window wall?
+  A1: I prefer the bed centered on the wall opposite the window for a more balanced and formal arrangement.
+  Q2: Do you prefer the bed facing the window head-on, or angled diagonally across the room?
+  A2: I prefer the bed facing the window head-on for a balanced, formal arrangement.
+  Q3: Do you prefer the wardrobe at the foot of the bed for a more open feel, or to the side of the bed to keep the center of the room clear?
+  A3: I prefer the wardrobe to the side, keeping the center clear and the arrangement formal and symmetrical.
+  → Final layouts: 5 | Completed: True
+
