@@ -1,0 +1,515 @@
+ALL GENERATED QUESTIONS — CRS EVALUATION
+============================================================
+
+Session: open_space_lover_run01 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer a layout where the table is near the window for natural light, or tucked away in the corner for more open floor space?
+  A1: I prefer the table near the window for natural light, as it keeps the center open and airy.
+  Q2: <question>Do you prefer the bed centered on the wall for a balanced look, or pushed into the corner to create more open floor space?
+  A2: Pushed into the corner to create more open floor space.
+  Q3: Do you prefer the table near the window for natural light, or the bed pushed into the corner for more open floor space?
+  A3: I prefer the table near the window for natural light, as it keeps the center open and airy.
+  Q4: Do you prefer the table beside the window for natural light, or in the corner to keep the floor space open?
+  A4: Beside the window for natural light, but keep the rest of the floor completely open and uncluttered.
+  Q5: <question>Do you prefer the bed along the far wall for more open floor space, or beside the window for a cozy, sunlit retreat?
+  A5: I prefer the bed along the far wall for more open floor space.
+  Q6: <question>Do you prefer the table beside the window for natural light, or in the corner to keep the floor space open?
+  A6: I prefer the table beside the window for natural light, keeping the center open and uncluttered.
+  Q7: Do you prefer the table beside the window for natural light, or in the corner to keep the floor space open?
+  A7: I prefer the table beside the window for natural light, keeping the center open and airy.
+  Q8: Do you prefer the bed beside the window for a sunlit retreat, or the table beside the window for natural light while sleeping in the corner?
+  A8: I prefer the table beside the window for natural light while sleeping in the corner.
+  Q9: Do you prefer the table beside the window for natural light, or in the corner to keep the floor space open?
+  A9: I prefer the table beside the window for natural light, keeping the center open and airy.
+  → Final layouts: 5 | Completed: True
+
+Session: open_space_lover_run02 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer the table beside the window or on the opposite wall for more open space?
+  A1: I prefer the table beside the window for natural light and to keep the center open.
+  Q2: Do you prefer the bed against the far wall for more open space, or centered for a balanced layout?
+  A2: I prefer the bed against the far wall for more open space.
+  Q3: Do you prefer the wardrobe beside the window for easy access, or against the far wall for more open floor space?
+  A3: Against the far wall for more open floor space.
+  Q4: Do you prefer the bed and table parallel to the window for a cozy feel, or perpendicular for more open floor space?
+  A4: Perpendicular for more open floor space.
+  Q5: <question>Do you prefer the table against the far wall for a cozy, anchored feel, or beside the window for a brighter workspace?
+  A5: I prefer the table beside the window for a brighter workspace.
+  → Final layouts: 4 | Completed: True
+
+Session: open_space_lover_run03 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer a layout where the table is near the window, or one where it is closer to the door?
+  A1: I prefer the table near the window for natural light, keeping the center open and uncluttered.
+  Q2: Do you prefer the bed centered for easy access, or pushed against the far wall for more floor space?
+  A2: Pushed against the far wall for more floor space.
+  Q3: Do you prefer the bed against the far wall for a clear focal point, or centered for easier access to the window?
+  A3: I prefer the bed against the far wall for a clear focal point and more breathing room.
+  Q4: Do you prefer the wardrobe along the side wall for a spacious feel, or against the far wall to group furniture together?
+  A4: I prefer the wardrobe along the side wall to keep the center open and airy.
+  Q5: Do you prefer the table near the window for natural light, or closer to the door for easy access?
+  A5: Near the window for natural light.
+  Q6: Do you prefer the table positioned beside the window for natural light, or moved toward the center of the room for more open floor space?
+  A6: I prefer the table beside the window for natural light, keeping the center open and uncluttered.
+  Q7: Do you prefer the wardrobe beside the bed for a cozy feel, or against the far wall for more open floor space?
+  A7: Against the far wall for more open floor space.
+  Q8: Do you prefer the bed along the side wall for a spacious center, or against the far wall for a clear focal point?
+  A8: Against the far wall for a clear focal point and open center.
+  Q9: Do you prefer the bed against the far wall to keep the window area open, or along the side wall to create a more private nook?
+  A9: I prefer the bed against the far wall to keep the window area open and maintain that airy, uncluttered feel.
+  Q10: Do you prefer the bed along the far wall for a spacious center, or beside the window for a cozy nook?
+  A10: I prefer the bed along the far wall for a spacious center.
+  → Final layouts: 5 | Completed: True
+
+Session: open_space_lover_run04 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer a spacious walkway to the door or a table closer to the window?
+  A1: I prefer a spacious walkway to the door, keeping the center clear and uncluttered.
+  Q2: <question>Do you prefer the bed centered against the far wall or pushed into the corner for more open floor space?
+  A2: I prefer the bed centered against the far wall for more open floor space.
+  Q3: Do you prefer the bed centered against the far wall or pushed into the corner for more open floor space?
+  A3: Pushed into the corner for more open floor space.
+  Q4: Do you prefer the bed centered against the far wall or pushed into the corner for more open floor space?
+  A4: Pushed into the corner for more open floor space.
+  Q5: Do you prefer the table near the window for natural light or closer to the door for easy access?
+  A5: I prefer the table near the window for natural light, keeping the center open and airy.
+  Q6: Do you prefer the wardrobe against the far wall or beside the bed for more open floor space?
+  A6: I prefer the wardrobe beside the bed to keep the far wall clear and maximize that open, airy feel.
+  Q7: Do you prefer the bed centered against the far wall or pushed into the corner for more open floor space?
+  A7: I prefer the bed centered against the far wall for more open floor space and a clear path.
+  Q8: Do you prefer the bed centered against the far wall or pushed into the corner for more open floor space?
+  A8: Pushed into the corner for more open floor space.
+  Q9: Do you prefer the table near the window for natural light or closer to the door for easy access?
+  A9: I prefer the table near the window for natural light to create an open, airy feel.
+  Q10: Do you prefer the wardrobe beside the left wall for an open feel, or the wardrobe in the center for more defined zones?
+  A10: I prefer the wardrobe beside the left wall for an open feel.
+  → Final layouts: 5 | Completed: True
+
+Session: open_space_lover_run05 | Persona: open_space_lover
+----------------------------------------
+  Q1: Do you prefer the wardrobe and table grouped together for a cozy, defined area, or spread apart for more open floor space?
+  A1: Spread apart for more open floor space.
+  Q2: <question>Do you prefer the bed centered against the far wall for a balanced look, or pushed to the left for more open floor space?
+  A2: Pushed to the left for more open floor space.
+  Q3: Do you prefer the bed against the far wall for a balanced look, or against the side wall for more open floor space?
+  A3: Against the far wall for a balanced look, keeping the center open and airy.
+  Q4: Do you prefer the bed centered against the far wall for a balanced look, or pushed to the side for more open floor space?
+  A4: Pushed to the side for more open floor space.
+  Q5: Do you prefer the open floor space created by the wardrobe against the far wall, or the cozy, defined area near the door with the wardrobe on the side wall?
+  A5: I prefer the open floor space with the wardrobe against the far wall for a more airy, uncluttered feel.
+  Q6: Do you prefer the bed against the far wall for a balanced look, or against the side wall for more open floor space?
+  A6: I prefer the bed against the far wall for a balanced look and more open floor space.
+  Q7: <question>Do you prefer the bed positioned against the far wall for a balanced look, or against the side wall for more open floor space?
+  A7: Against the far wall for a balanced look, maximizing the open floor space I need.
+  → Final layouts: 4 | Completed: True
+
+Session: cozy_corner_run01 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer the table near the bed and wardrobe, or separated on the opposite wall?
+  A1: I prefer the table near the bed and wardrobe, creating a cozy, snug cluster that feels more like a warm, private retreat.
+  Q2: Do you prefer the bed pushed against the wall, or centered in the room for more open space?
+  A2: I prefer the bed pushed against the wall for that snug, secure feeling.
+  Q3: Do you prefer the table positioned by the window for natural light, or on the opposite wall for a more private workspace?
+  A3: I prefer the table tucked into a corner to create a cozy, private nook for my workspace.
+  Q4: Do you prefer the table tucked into the corner for a cozy workspace, or centered in the room for more open space?
+  A4: I'd choose the table tucked into the corner for a cozy workspace.
+  Q5: Do you prefer the wardrobe against the far wall for an open feel, or beside the bed as a room divider?
+  A5: I'd choose beside the bed as a room divider to create that cozy, snug feeling I love.
+  → Final layouts: 4 | Completed: True
+
+Session: cozy_corner_run02 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer a large, open floor space in the center, or a more filled-in room with furniture spread out?
+  A1: I definitely prefer a filled-in room with furniture spread out to create those cozy, snug nooks I love.
+  Q2: Do you prefer the bed pushed against the wall for more open floor space, or centered in the room to create cozy nooks?
+  A2: I prefer the bed centered in the room to create cozy nooks and a snug, filled feel.
+  Q3: Do you prefer the bed placed against the wall to leave the center open, or centered in the room to create cozy nooks?
+  A3: I prefer the bed centered to create those cozy nooks and keep everything snug and filled.
+  Q4: Do you prefer the bed centered in the room for cozy nooks, or pushed against the wall for more open floor space?
+  A4: I prefer the bed pushed against the wall for a snug, cozy nook that feels like a warm, private retreat.
+  Q5: Do you prefer the table near the window for natural light, or near the bed for a workspace setup?
+  A5: I'd choose the table near the bed for a cozy, snug workspace setup.
+  Q6: Do you prefer the wardrobe against the wall for an open feel, or in the center to create cozy nooks?
+  A6: I'd definitely choose the center wardrobe to create those cozy nooks and keep everything snug and filled.
+  Q7: Do you prefer the bed pushed against the wall for a large open center, or centered in the room to create cozy nooks?
+  A7: I prefer the bed centered in the room to create cozy nooks and a snug, filled feel.
+  Q8: Do you prefer the bed centered on the wall for an open feel, or pushed against the wall beside the window?
+  A8: I prefer the bed pushed against the wall beside the window for a snug, cozy feel.
+  Q9: Do you prefer the wardrobe against the wall for an open feel, or moved to create cozy nooks?
+  A9: Moved to create cozy nooks, please! I love a snug, filled room with furniture clustered together.
+  Q10: Do you prefer the wardrobe against the wall for a large open center, or moved to the center to create cozy nooks?
+  A10: I prefer the wardrobe moved to the center to create those cozy, snug nooks I love.
+  → Final layouts: 4 | Completed: True
+
+Session: cozy_corner_run03 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer the wardrobe near the door for easy access, or beside the bed for a cozy corner?
+  A1: Beside the bed for a cozy corner, please.
+  Q2: Do you prefer the bed centered for symmetry, or pushed against the wall for more open floor space?
+  A2: Pushed against the wall for more open floor space.
+  Q3: Do you prefer a cozy retreat with the bed pushed against the far wall, or an airy layout with more open floor space?
+  A3: I prefer the cozy retreat with the bed pushed against the far wall, creating a snug, filled sanctuary.
+  Q4: Do you prefer the wardrobe along the far wall for a balanced look, or beside the bed for a cozy corner?
+  A4: Beside the bed for a cozy corner, please.
+  Q5: Do you prefer the wardrobe beside the bed for a cozy corner, or along the far wall for a balanced look?
+  A5: I prefer the wardrobe beside the bed for a cozy corner.
+  → Final layouts: 4 | Completed: True
+
+Session: cozy_corner_run04 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer a room where the bed is centered against the far wall, or one where it's pushed into a corner for more open floor space?
+  A1: I'd definitely choose the one where the bed is tucked into a corner for that snug, cozy feeling.
+  Q2: Do you prefer the bed tucked into the corner for more open floor space, or centered against the far wall for a balanced look?
+  A2: I prefer the bed tucked into the corner for a snug, cozy feel with furniture clustered together.
+  Q3: Do you prefer the bed centered against the far wall, or tucked into the corner for more open floor space?
+  A3: I'd definitely prefer the bed tucked into the corner for that snug, secure feeling.
+  Q4: Do you prefer the bed placed against the wall to create a central focal point, or positioned along the side to leave the center of the room open and airy?
+  A4: I prefer the bed tucked into a corner to create a cozy, snug nook that feels like a warm, private retreat.
+  Q5: Do you prefer the wardrobe against the top wall for a wide open feel, or along the side wall to create a cozy sleeping nook?
+  A5: Along the side wall to create a cozy sleeping nook.
+  → Final layouts: 4 | Completed: True
+
+Session: cozy_corner_run05 | Persona: cozy_corner
+----------------------------------------
+  Q1: Do you prefer the table positioned near the window or the wardrobe placed along the left wall?
+  A1: I prefer the wardrobe along the left wall to keep everything clustered and cozy.
+  Q2: Do you prefer the bed pushed against the top wall or centered in the room?
+  A2: I prefer the bed centered in the room, tucked into a corner with walls on two sides for security.
+  Q3: Do you prefer the bed pushed against the top wall for an open center, or along the left wall to create a long walkway?
+  A3: I prefer the bed tucked in the corner to create a cozy, snug retreat with furniture clustered close together.
+  Q4: Do you prefer the bed centered against the top wall for a formal look, or tucked in the left corner for a cozy retreat?
+  A4: I'd definitely choose the tucked-in corner for that cozy, snug retreat feel I love.
+  Q5: Do you prefer the table near the window or away from it in the center?
+  A5: I prefer the table tucked away in the corner to create a cozy, private nook.
+  Q6: Do you prefer the wardrobe against the far wall for an open feel, or along the left wall for a cozy corner?
+  A6: I'd choose the wardrobe along the left wall for that cozy, snug corner feel I love.
+  Q7: Do you prefer the open center created by the bed and wardrobe along the left wall, or the balanced, formal arrangement along the top and left walls?
+  A7: I prefer the balanced arrangement along the top and left walls for a cozy, snug feel.
+  Q8: Do you prefer the bed horizontal against the top wall or vertical along the right wall near the window?
+  A8: I prefer the bed vertical along the right wall near the window, tucked into the corner for that snug, secure feeling.
+  Q9: Do you prefer the table tucked in the corner or along the top wall near the wardrobe?
+  A9: I prefer the table tucked in the corner to create a cozy, snug nook that feels more filled and intimate.
+  Q10: Do you prefer the table along the far wall for an open center, or tucked in the corner for a cozy nook?
+  A10: Tucked in the corner for a cozy nook, please!
+  → Final layouts: 4 | Completed: True
+
+Session: functional_organiser_run01 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer the bed pushed against the far wall for more open floor space, or centered with the table beside the window for a cozy reading nook?
+  A1: I prefer the bed against the far wall for clear sightlines and a logical flow from the door.
+  Q2: Do you prefer the bed pushed against the far wall for more open floor space, or centered in the room for a more balanced layout?
+  A2: I prefer the bed against the far wall for a clear sightline and logical flow from the door.
+  Q3: Do you prefer the table beside the window for natural light, or against the far wall for more open floor space?
+  A3: Against the far wall for more open floor space, as it keeps the work zone distinct and maintains a clear path to the bed.
+  Q4: Do you prefer the wardrobe against the far wall for a cozy, anchored feel, or along the side wall for a more open, airy layout?
+  A4: I prefer the wardrobe along the side wall for a logical get-dressed-and-leave flow.
+  Q5: Do you prefer the wardrobe across from the bed for a more open, airy feel, or beside the bed for a cozy, defined sleeping corner?
+  A5: I prefer the wardrobe beside the bed for a clear, logical flow from storage to sleep.
+  → Final layouts: 4 | Completed: True
+
+Session: functional_organiser_run02 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer the bed centered on the far wall with open floor space, or against the wall with a more enclosed feel?
+  A1: Against the wall with a more enclosed feel.
+  Q2: Do you prefer the bed pushed against the far wall or centered with open space around it?
+  A2: I prefer the bed against the far wall for a clear sightline and logical flow.
+  Q3: Do you prefer the bed against the far wall with open floor space, or against the side wall for a more cozy feel?
+  A3: I prefer the bed against the far wall with open floor space for clear zoning and a logical flow.
+  Q4: Do you prefer the bed centered against the far wall for an open feel, or pushed to the side wall for a more compact layout?
+  A4: I prefer the bed centered against the far wall for a clear sightline and logical flow from the door.
+  Q5: Do you prefer the table beside the window or near the door for convenience?
+  A5: I prefer the table beside the window to keep the work zone distinct from the bed.
+  Q6: Do you prefer the table positioned vertically beside the window, or horizontally in the center of the room?
+  A6: I prefer the table horizontally in the center to keep the work zone distinct from the bed.
+  Q7: Do you prefer the table positioned vertically in the center of the room or horizontally against the wall?
+  A7: Horizontally against the wall, to keep the center clear and separate the work zone from the bed.
+  Q8: Do you prefer the table against the far wall for a more open feel, or beside the wardrobe for a more compact layout?
+  A8: I prefer the table against the far wall to keep the work and sleep zones clearly separated.
+  → Final layouts: 5 | Completed: True
+
+Session: functional_organiser_run03 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer the table placed against the far left wall for more open floor space, or beside the window for a dedicated workspace?
+  A1: I prefer the table beside the window for a dedicated workspace, keeping the sleep zone separate.
+  Q2: Do you prefer the bed pushed against the wall for more open floor space, or centered in the room for a balanced layout?
+  A2: I prefer the bed against the wall for a clear sightline on entry and a logical flow from the wardrobe to the door.
+  Q3: Do you prefer the bed positioned along the left wall for a spacious, open feel, or centered in the room for a cozy, balanced layout?
+  A3: I prefer the bed centered against the top wall for a clear sightline and logical flow.
+  Q4: Do you prefer the bed positioned along the left wall for a spacious, open feel, or centered in the room for a cozy, balanced layout?
+  A4: Neither; I need the bed against the top wall and the wardrobe near the door for a logical flow.
+  Q5: Do you prefer the bed against the far wall for a dedicated workspace beside the window, or along the side wall for more open floor space in the center?
+  A5: I prefer the bed against the far wall for a dedicated workspace beside the window.
+  Q6: Do you prefer the table positioned vertically beside the window for a dedicated workspace, or horizontally in the center for an open, social feel?
+  A6: I prefer the table vertically beside the window for a dedicated workspace, keeping work and sleep zones distinct.
+  Q7: Do you prefer the table positioned vertically beside the window for natural light, or in the center of the room for an open, social feel?
+  A7: I prefer the table beside the window for natural light, as it keeps the work zone distinct and organized.
+  Q8: Do you prefer the table beside the window for natural light, or in the center of the room for an open, social feel?
+  A8: I prefer the table beside the window for natural light, as it keeps the work zone distinct from the bed.
+  Q9: Do you prefer the table beside the window for natural light, or against the far wall for more open floor space in the center?
+  A9: I prefer the table against the far wall to keep the work zone distinct and maintain a clear path to the bed.
+  → Final layouts: 5 | Completed: True
+
+Session: functional_organiser_run04 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer the bed centered on the far wall or pushed up against the top wall?
+  A1: I prefer the bed pushed up against the top wall for a clear sightline on entry.
+  Q2: Do you prefer the bed pushed against the top wall or centered on the far wall?
+  A2: I prefer the bed centered on the far wall, as it keeps the work and sleep zones clearly separated.
+  Q3: Do you prefer the bed pushed against the top wall or centered on the far wall?
+  A3: I prefer the bed pushed against the top wall for a clear sightline on entry and better zoning.
+  Q4: Do you prefer the table positioned to leave a clear view of the bed from the entryway, or do you prefer it rotated to create a more defined, partitioned space?
+  A4: I prefer the table positioned to leave a clear view of the bed from the entryway.
+  Q5: Do you prefer the bed positioned against the top wall for an open feel, or pushed against the left wall to maximize floor space?
+  A5: I prefer the bed against the top wall for a clear sightline and logical flow from the door.
+  Q6: Do you prefer the open floor space in the center or the furniture pushed against the walls?
+  A6: I prefer the open floor space in the center for clear zones and logical flow.
+  Q7: Do you prefer the bed against the far wall for an open feel, or against the side wall to create a more defined, cozy space?
+  A7: I prefer the bed against the far wall for clear sightlines and a logical flow from the door.
+  Q8: Do you prefer the table positioned to leave a clear view of the bed from the entryway, or do you prefer it rotated to create a more defined, partitioned space?
+  A8: I prefer the table positioned to leave a clear view of the bed from the entryway.
+  → Final layouts: 2 | Completed: True
+
+Session: functional_organiser_run05 | Persona: functional_organiser
+----------------------------------------
+  Q1: Do you prefer the wardrobe against the side wall for more open floor space, or against the top wall for a more balanced look?
+  A1: I prefer the wardrobe against the side wall for a logical flow from the door to the bed.
+  Q2: Do you prefer the bed positioned against the top wall for a cozy, private feel, or centered in the room for a more open layout?
+  A2: Centered in the room for a more open layout, as it keeps the work and sleep zones distinct.
+  Q3: Do you prefer the table against the wall for an airy feel, or centered in the room for a casual, social layout?
+  A3: I prefer the table against the wall to keep the work zone distinct and maintain a clear path to the bed.
+  Q4: Do you prefer the wardrobe against the side wall for more open floor space, or against the top wall for a more balanced look?
+  A4: Against the top wall for a balanced look, as long as the wardrobe stays near the door for a logical flow.
+  Q5: Do you prefer the table beside the window for a clear path, or in the middle of the room for a more open feel?
+  A5: I prefer the table beside the window for a clear path, as it keeps the work zone distinct and maintains a logical flow.
+  Q6: Do you prefer the wardrobe against the side wall for more open floor space, or against the top wall for a more balanced look?
+  A6: I prefer the wardrobe against the side wall for a logical flow from the door.
+  Q7: Do you prefer the wardrobe near the door for easy access, or against the side wall for more open floor space?
+  A7: I prefer the wardrobe near the door for a logical get-dressed-and-leave flow.
+  Q8: Do you prefer the table beside the bed for a cozy setup, or on the opposite side of the room for more open floor space?
+  A8: Opposite side for clear zoning; I need distinct work and sleep areas, not a cozy setup.
+  Q9: Do you prefer the table beside the window for natural light, or on the opposite side of the room for a more open center?
+  A9: I prefer the table on the opposite side to keep the work zone distinct and maintain a clear path to the bed.
+  Q10: Do you prefer the table against the far wall for a clear path to the door, or beside the wardrobe for a more compact workspace?
+  A10: I prefer the table against the far wall for a clear path to the door and better separation of zones.
+  → Final layouts: 5 | Completed: True
+
+Session: social_entertainer_run01 | Persona: social_entertainer
+----------------------------------------
+  Q1: Do you prefer the open walkway near the door, or the furniture clustered by the window?
+  A1: I prefer the open walkway near the door because it keeps the center spacious and welcoming for guests.
+  Q2: Do you prefer the bed centered for symmetry, or pushed against the far wall for more open floor space?
+  A2: I'd definitely go with the bed against the far wall to keep the center open and welcoming for guests.
+  Q3: Do you prefer the bed pushed against the far wall for an airy feel, or centered for a cozy, balanced look?
+  A3: I prefer the bed pushed against the far wall for an airy feel.
+  Q4: Do you prefer the wardrobe and table against the far wall for an open entrance, or the bed against the far wall for a clear focal point?
+  A4: I prefer the bed against the far wall for a clear focal point and open centre.
+  Q5: Do you prefer the table near the entrance for easy access, or against the window for a clearer walkway?
+  A5: I'd prefer the table against the window to keep the centre open and welcoming for guests.
+  Q6: Do you prefer the table near the window for natural light, or against the far wall for a more open entrance area?
+  A6: I prefer the table near the window for natural light, as it keeps the entrance open and welcoming.
+  Q7: Do you prefer the bed against the far wall for a spacious entrance, or along the side wall for a different layout?
+  A7: I prefer the bed along the side wall to keep the center open and welcoming for guests.
+  Q8: Do you prefer the bed against the far wall for a spacious entrance, or along the side wall for a different layout?
+  A8: I'd prefer the bed along the side wall to keep the center open and welcoming for guests.
+  Q9: Do you prefer the table near the entrance for easy access, or against the far wall for a more open entrance area?
+  A9: I'd prefer the table against the far wall to keep the entrance open and welcoming for guests.
+  Q10: Do you prefer the table against the far wall for a clear entrance path, or near the entrance for easy access?
+  A10: I prefer the table against the far wall to keep the entrance clear and the centre open for socialising.
+  → Final layouts: 5 | Completed: True
+
+Session: social_entertainer_run02 | Persona: social_entertainer
+----------------------------------------
+  Q1: Do you prefer the bed centered on the far wall or pushed into the corner near the window?
+  A1: I prefer the bed centered on the far wall to keep the center open and welcoming.
+  Q2: Do you prefer the wardrobe pushed against the left wall or pulled out into the center of the room?
+  A2: I prefer the wardrobe pushed against the left wall to keep the center open and welcoming.
+  Q3: Do you prefer the table beside the window or pulled away from it toward the center of the room?
+  A3: I prefer the table pulled away toward the center to keep the space open and welcoming.
+  Q4: Do you prefer the bed oriented horizontally against the far wall or vertically along the side wall?
+  A4: I prefer the bed vertically along the side wall to keep the center open and welcoming.
+  Q5: Do you prefer the wardrobe against the left wall or pulled out into the center of the room?
+  A5: I'd prefer the wardrobe pulled out into the center to keep the space feeling more open and social.
+  → Final layouts: 4 | Completed: True
+
+Session: social_entertainer_run03 | Persona: social_entertainer
+----------------------------------------
+  Q1: Do you prefer the table placed near the window for natural light or near the door for easy access?
+  A1: I prefer the table near the window for natural light, as it keeps the center open and welcoming.
+  Q2: Do you prefer the bed pushed against the wall for a cozy feel or centered in the room for a balanced look?
+  A2: I'd prefer the bed centered for a balanced look, keeping the space open and welcoming.
+  Q3: Do you prefer the bed positioned near the window for natural light or centered in the room for a balanced look?
+  A3: I prefer the bed centered in the room for a balanced look, keeping the space open and welcoming.
+  Q4: Do you prefer the bed positioned horizontally across the room for a spacious feel or vertically along the wall for a more traditional layout?
+  A4: I prefer the bed vertically along the wall to keep the center open and welcoming for guests.
+  Q5: Do you prefer the table positioned near the window for natural light or near the door for easy access?
+  A5: I prefer the table near the window for natural light, as it keeps the center open and welcoming.
+  Q6: Do you prefer the open floor space in the center of the room or the furniture grouped together against the walls?
+  A6: I prefer the open floor space in the center of the room.
+  Q7: Do you prefer the bed vertically along the wall for a traditional feel or horizontally across the top for a spacious look?
+  A7: I prefer the bed horizontally across the top for a spacious look.
+  Q8: Do you prefer the bed positioned horizontally across the top for a spacious look or vertically along the wall for a traditional feel?
+  A8: I prefer the bed positioned horizontally across the top for a spacious look.
+  Q9: Do you prefer the bed horizontally across the top for a spacious look or vertically along the wall for a traditional feel?
+  A9: I prefer the bed horizontally across the top for a spacious look.
+  → Final layouts: 5 | Completed: True
+
+Session: social_entertainer_run04 | Persona: social_entertainer
+----------------------------------------
+  Q1: <question>Do you prefer the wardrobe tucked away in the corner or aligned along the left wall?
+  A1: I prefer the wardrobe tucked away in the corner to keep the space feeling open and welcoming.
+  Q2: Do you prefer the bed pushed against the far wall for more open floor space, or centered in the room for a balanced, symmetrical feel?
+  A2: I prefer the bed centered in the room for a balanced, symmetrical feel.
+  Q3: Do you prefer the bed centered for a balanced, symmetrical feel, or pushed against the wall for more open floor space?
+  A3: I'd definitely go with the bed pushed against the wall to keep the center open and welcoming for guests.
+  Q4: Do you prefer the furniture spread apart for a more open feel, or grouped against the walls to keep the center of the room empty?
+  A4: I prefer the furniture spread apart for a more open feel, keeping the center spacious and welcoming.
+  Q5: Do you prefer the furniture arranged to create a cozy, enclosed feel, or oriented lengthwise to create a long, narrow corridor feel?
+  A5: I'd prefer the open, spacious layout that feels welcoming and social, not a cozy or enclosed feel.
+  Q6: Do you prefer the wardrobe against the far wall for a clear path to the entrance, or along the side wall to create a cozy corner by the bed?
+  A6: I prefer the wardrobe along the side wall to create a cozy corner by the bed.
+  Q7: <question>Do you prefer the table near the window for natural light, or tucked away to keep the entrance clear?
+  A7: I prefer the table tucked away to keep the entrance clear and maintain that open, welcoming feel.
+  Q8: Do you prefer the bed positioned across the far wall to maximize open floor space, or lengthwise along the side wall to create a longer, narrower walkway?
+  A8: I prefer the bed lengthwise along the side wall to keep the center open and welcoming for guests.
+  Q9: Do you prefer the table tucked in the corner to keep the entrance clear, or centered along the wall for a more balanced layout?
+  A9: I'd prefer the table centered along the wall for a more balanced, open layout.
+  Q10: Do you prefer the table near the window for natural light, or tucked away to keep the entrance clear?
+  A10: I prefer the table tucked away to keep the entrance clear and maintain that open, spacious feel.
+  → Final layouts: 4 | Completed: True
+
+Session: social_entertainer_run05 | Persona: social_entertainer
+----------------------------------------
+  Q1: Do you prefer the table on the left for a more open feel, or on the right for better light?
+  A1: I'd prefer the table on the right for better light and a more open, social feel.
+  Q2: <question>Do you prefer the bed centered against the back wall for symmetry, or pushed to the left to create more open floor space?
+  A2: Pushed to the left to create more open floor space.
+  Q3: Do you prefer the bed along the left wall for an airy feel, or centered at the top for a balanced look?
+  A3: I'd go with the bed centered at the top for a more balanced, open feel.
+  Q4: Do you prefer the table beside the window for light, or the bed beside the window for a cozy feel?
+  A4: I prefer the bed beside the window for a cozy feel.
+  Q5: Do you prefer the table near the door for a clear walkway, or beside the window for natural light?
+  A5: I'd prefer the table beside the window for natural light, as it feels more open and welcoming.
+  Q6: Do you prefer the table beside the window for natural light, or against the top wall for a more open floor space?
+  A6: I prefer the table against the top wall for a more open floor space.
+  Q7: Do you prefer the bed against the top wall for a balanced look, or beside the window for a cozy feel?
+  A7: I'd prefer the bed against the top wall to keep the center open and welcoming for guests.
+  Q8: Do you prefer the table beside the window for natural light, or against the bottom wall for more open floor space?
+  A8: I'd prefer the table against the bottom wall to keep the center open and welcoming for guests.
+  Q9: Do you prefer the table near the door for easy access, or beside the window for natural light?
+  A9: I'd prefer the table near the window for natural light to make the space feel more open and inviting.
+  Q10: Do you prefer the table against the far wall for a spacious feel, or near the door for easy access?
+  A10: I prefer the table against the far wall for a spacious feel.
+  → Final layouts: 5 | Completed: True
+
+Session: symmetry_seeker_run01 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the table near the window or the wardrobe near the door?
+  A1: I prefer the table near the window for a more balanced and formal arrangement.
+  Q2: Do you prefer the bed centered for an open feel or pushed against the wall for a cozy retreat?
+  A2: I prefer the bed centered for an open feel, as it creates a balanced and formal arrangement.
+  Q3: Do you prefer the table placed near the window or in the center of the room?
+  A3: I prefer the table in the center of the room for a more balanced and formal arrangement.
+  Q4: Do you prefer the table in the center of the room or pushed against the wall for a cozy feel?
+  A4: I prefer the table centered for a balanced, formal arrangement that feels symmetrical and harmonious.
+  Q5: Do you prefer the wardrobe near the door or across the room from the door?
+  A5: I prefer the wardrobe across the room, as it creates a more balanced and symmetrical arrangement.
+  Q6: Do you prefer the wardrobe pushed against the wall for an open center, or the wardrobe in the center of the room?
+  A6: I prefer the wardrobe in the center for a more balanced and symmetrical arrangement.
+  Q7: Do you prefer the table beside the window or against the opposite wall for a more open center?
+  A7: I prefer the table beside the window to maintain a balanced, symmetrical arrangement.
+  Q8: Do you prefer the table near the door for a casual feel or against the far wall for a more open center?
+  A8: Against the far wall for a more open center, as it creates a balanced and formal arrangement.
+  Q9: Do you prefer the table in the open center for a balanced feel or pushed against the far wall for a more open center?
+  A9: I prefer the table pushed against the far wall for a more formal, balanced arrangement.
+  Q10: Do you prefer the table against the far wall for an open center or near the door for a casual feel?
+  A10: I prefer the table against the far wall to maintain a balanced, formal arrangement with the bed as the central anchor.
+  → Final layouts: 5 | Completed: True
+
+Session: symmetry_seeker_run02 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the table positioned beside the window for natural light or near the door for easy access?
+  A1: I prefer the table beside the window for natural light, as it creates a more balanced and harmonious arrangement.
+  Q2: Do you prefer the bed centered against the far wall or pushed to one side for a more open feel?
+  A2: I prefer the bed centered against the far wall for a balanced, formal arrangement.
+  Q3: Do you prefer the bed centered against the far wall for an open feel or shifted closer to the window?
+  A3: I prefer the bed centered against the far wall for a balanced, formal arrangement.
+  Q4: Do you prefer the bed pushed against the far wall for a cozy sleeping nook or along the side wall for a more open floor plan?
+  A4: I prefer the bed centred on the far wall for a balanced, formal arrangement.
+  Q5: Do you prefer the furniture arranged along the walls for a spacious center or clustered in the middle for a cozy, defined space?
+  A5: I prefer the furniture arranged along the walls for a spacious center.
+  Q6: Do you prefer the bed pushed against the left wall for a spacious center or centered against the far wall for a balanced feel?
+  A6: I prefer the bed centered against the far wall for a balanced, formal feel.
+  Q7: Do you prefer the bed and wardrobe grouped against the left wall for a spacious center or spread along the top and right walls to create a cozy U-shape?
+  A7: I prefer the spread arrangement to create a balanced, symmetrical U-shape that feels formal and harmonious.
+  Q8: Do you prefer the bed positioned vertically along the side wall for a spacious center or horizontally against the far wall for a balanced feel?
+  A8: I prefer the bed horizontally against the far wall for a balanced, formal feel.
+  → Final layouts: 5 | Completed: True
+
+Session: symmetry_seeker_run03 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the wardrobe beside the bed or the table beside the bed?
+  A1: I prefer the wardrobe beside the bed for a more balanced and formal arrangement.
+  Q2: Do you prefer the bed centered against the far wall or the wardrobe tucked into the corner beside the bed?
+  A2: I prefer the bed centered against the far wall for a more balanced and formal arrangement.
+  Q3: Do you prefer the bed centered against the far wall or pushed along the side wall?
+  A3: I prefer the bed centered against the far wall for a balanced, formal arrangement.
+  Q4: Do you prefer the airy, open feel near the entrance or the cozy, filled feeling of the room?
+  A4: I prefer the balanced, formal arrangement that creates a visually harmonious and symmetrical space.
+  Q5: Do you prefer the table near the window for natural light or the table near the door for easier access?
+  A5: I prefer the table near the window for natural light, as it creates a more balanced and harmonious arrangement.
+  Q6: Do you prefer the wardrobe beside the bed or the table beside the bed?
+  A6: I prefer the table beside the bed, as it creates a more balanced and symmetrical arrangement.
+  Q7: Do you prefer the bed pushed against the side wall or centered against the far wall?
+  A7: I prefer the bed centered against the far wall for its formal symmetry and visual balance.
+  Q8: Do you prefer the bed centered against the far wall or pushed along the side wall?
+  A8: I prefer the bed centered against the far wall for a balanced, formal arrangement.
+  Q9: Do you prefer the table beside the window for natural light or the table near the door for easier access?
+  A9: I prefer the table beside the window for natural light, as it creates a more balanced and harmonious arrangement.
+  Q10: Do you prefer the table near the window for natural light or the table near the door for easier access?
+  A10: I prefer the table near the window for natural light, as it creates a more balanced and harmonious arrangement.
+  → Final layouts: 4 | Completed: True
+
+Session: symmetry_seeker_run04 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the bed centered above the wardrobe, or against the top wall?
+  A1: I prefer the bed centered above the wardrobe for a more balanced and symmetrical look.
+  Q2: Do you prefer the bed centered in the room, or against the far wall?
+  A2: I prefer the bed centered in the room for a more balanced and formal arrangement.
+  Q3: Do you prefer the bed pushed against the far wall for more open floor space, or centered in the room for a balanced look?
+  A3: I prefer the bed centered in the room for a balanced, formal look.
+  Q4: Do you prefer a wide, open central walkway, or a long, narrow corridor-like space?
+  A4: I prefer a wide, open central walkway for a balanced, formal feel.
+  Q5: Do you prefer a wide, open central floor area, or a long, narrow corridor-like space?
+  A5: I prefer a wide, open central floor area for a balanced, formal, and visually harmonious space.
+  Q6: Do you prefer the bed centered in the room for a balanced look, or against the far wall for more open floor space?
+  A6: I prefer the bed centered in the room for a balanced look.
+  Q7: Do you prefer the bed positioned horizontally for a wide central walkway, or vertically to create a long corridor-like space?
+  A7: I prefer the bed positioned horizontally for a wide central walkway, as it creates a balanced and symmetrical focal point.
+  Q8: Do you prefer the table beside the window for natural light, or centered in the room for a balanced look?
+  A8: I prefer the table centered in the room for a balanced look.
+  → Final layouts: 5 | Completed: True
+
+Session: symmetry_seeker_run05 | Persona: symmetry_seeker
+----------------------------------------
+  Q1: Do you prefer the wardrobe and bed against the same wall, or the table and bed against the same wall?
+  A1: I prefer the wardrobe and bed against the same wall for a more balanced, symmetrical look.
+  Q2: Do you prefer the bed pushed against the wall for a more open feel, or centered in the room?
+  A2: I prefer the bed centered in the room for a more balanced and formal arrangement.
+  Q3: Do you prefer the table near the window for natural light, or centered in the room for easier access from the door?
+  A3: I prefer it centered in the room for easier access from the door.
+  Q4: Do you prefer the bed pushed against the wall for a more open floor, or centered in the room for a cozy feel?
+  A4: I prefer the bed centered in the room for a cozy feel, as it creates a balanced and harmonious focal point.
+  Q5: Do you prefer the wardrobe against the far wall to create more open floor space, or beside the bed to group storage together?
+  A5: I prefer the wardrobe beside the bed to group storage together, creating a more balanced and formal arrangement.
+  Q6: Do you prefer the open floor space created by the wardrobe against the far wall, or the grouped storage beside the bed?
+  A6: I prefer the grouped storage beside the bed for its balanced, formal arrangement.
+  Q7: Do you prefer the cozy retreat feel of the grouped bed and wardrobe, or the airy openness of the separated furniture?
+  A7: I prefer the airy openness of the separated furniture for its balanced, formal symmetry.
+  Q8: Do you prefer the bed placed beside the window for a view, or against the far wall for a more open floor space?
+  A8: I prefer the bed against the far wall for a more open, balanced floor space.
+  Q9: Do you prefer the table near the window for natural light, or centered in the room for easier access from the door?
+  A9: Centered for balance, please. Symmetry is essential for a formal, harmonious space.
+  Q10: Do you prefer the balanced symmetry of the table and wardrobe against the walls, or the casual grouping of the table near the door?
+  A10: I prefer the balanced symmetry of the table and wardrobe against the walls.
+  → Final layouts: 5 | Completed: True
+

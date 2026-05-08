@@ -25,6 +25,7 @@ eval/results/
 # ── Generated Layouts ─────────────────────────────────────────────────────────
 generated_layouts/
 images_old/
+images_old_1/
 
 # ── Model Weights & Checkpoints ───────────────────────────────────────────────
 *.bin

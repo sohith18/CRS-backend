@@ -9,7 +9,7 @@ import base64
 import ollama
 
 OLLAMA_HOST  = "http://localhost:11434"
-VLM_MODEL_ID = "qwen3.6:35b"
+VLM_MODEL_ID = "qwen2.5vl:3b"
 
 
 class SimulatedUser:

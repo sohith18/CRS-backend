@@ -1,0 +1,31 @@
+OVERALL,,
+Metric,Value,Notes
+Avg Turns To Completion,8.24,
+Min Turns,5,
+Max Turns,10,
+Std Turns,2.006,
+Elimination Rate Per Turn,5.408,
+Total Questions Generated,206,
+Invalid Question Count,0,
+Question Validity Rate,1.0,
+Unsure Rate,0.0,
+Avg Final Recommendations,4.44,
+Min Final Recommendations,2,
+Max Final Recommendations,5,
+Completion Rate,1.0,
+,,
+PER-PERSONA BREAKDOWN,,
+Metric,open_space_lover,cozy_corner,functional_organiser,social_entertainer,symmetry_seeker
+Avg Turns To Completion,8.2,7.0,8.0,8.8,9.2
+Min Turns,5,5,5,5,8
+Max Turns,10,10,10,10,10
+Std Turns,1.939,2.449,1.673,1.939,0.98
+Elimination Rate Per Turn,5.415,6.286,5.6,5.045,4.804
+Total Questions Generated,41,35,40,44,46
+Invalid Question Count,0,0,0,0,0
+Question Validity Rate,1.0,1.0,1.0,1.0,1.0
+Unsure Rate,0.0,0.0,0.0,0.0,0.0
+Avg Final Recommendations,4.6,4.0,4.2,4.6,4.8
+Min Final Recommendations,4,4,2,4,4
+Max Final Recommendations,5,4,5,5,5
+Completion Rate,1.0,1.0,1.0,1.0,1.0

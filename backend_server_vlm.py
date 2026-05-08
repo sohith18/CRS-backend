@@ -4,7 +4,7 @@ backend_vlm.py — FastAPI backend for Agentic RAG Room Layout Recommendation (V
 Run: uvicorn backend_vlm:app --host 0.0.0.0 --port 8000
 
 Env vars:
-  LAYOUTS_PATH      path to layouts.json              (default: layouts.json)
+  LAYOUTS_PATH      path to layouts.json              (default: vlm_layouts.json)
   VLM_MODEL_ID      Ollama VLM model tag               (default: qwen3-vl:30b-a3b-instruct)
   DINOV3_MODEL      HuggingFace DINOv3 model name      (default: facebook/dinov3-vith16plus-pretrain-lvd1689m)
   OLLAMA_HOST       Ollama API base URL                 (default: http://localhost:11434)
